@@ -6,14 +6,10 @@
 
 ### Links and Resources
 
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-27)
+* [travis](https://travis-ci.com/brandyn-vay-401-advanced-javascript/lab-class-27)
 * [Netlify](https://jovial-bardeen-508ab8.netlify.com/)
 * [AWS](http://bv-react-counter.s3-website-us-west-2.amazonaws.com/#)
-
-#### Documentation
-
-* [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
 
@@ -27,11 +23,10 @@
 ### Setup
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* `npm run build`
+  * will be build out the aws s3
+* `npm run deploy`
+  * attaches the build with the s3
   
 #### Tests
 
