@@ -16,6 +16,7 @@
 * [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
+
 #### `app.js`
 #### `counter.js`
 #### `footer.js`
