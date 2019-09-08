@@ -27,7 +27,6 @@
 ### Setup
 
 #### Running the app
-
 * `npm start`
 * Endpoint: `/foo/bar/`
   * Returns a JSON object with abc in it.
