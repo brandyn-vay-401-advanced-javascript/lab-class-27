@@ -8,8 +8,8 @@
 
 * [submission PR](http://xyz.com)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [Netlify](https://jovial-bardeen-508ab8.netlify.com/)
+* [AWS](http://bv-react-counter.s3-website-us-west-2.amazonaws.com/#)
 
 #### Documentation
 
